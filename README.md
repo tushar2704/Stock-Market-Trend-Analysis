@@ -38,7 +38,7 @@ The project repository is organized as follows:
 ├── README.md           <- README .
 ├── notebooks           <- Folder containing the final reports/results of this project.
 │   │
-│   └── bank_german_customer_segmentation.py   <- Final notebook for the project.
+│   └── Netflix_Stock_Price_Trend_Analysis.ipynb   <- Final notebook for the project.
 ├── reports            <- Folder containing the final reports/results of this project.
 │   │
 │   └── Report.pdf     <- Final analysis report in PDF.
@@ -62,3 +62,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact me!
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
+
+
